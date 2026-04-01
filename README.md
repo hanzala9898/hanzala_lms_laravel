@@ -4,10 +4,11 @@ A modern, clean, and fast Student Management System built with **Laravel**. This
 ✨ Key Features
  Interactive Dashboard: Overview of all students.
  Live Search (AJAX): Instant search for students and navigation links.
- Data Export: Export student lists to **Excel, PDF, CSV, or Copy** to clipboard (Excludes Edit/Delete columns).
+ Data Export: Export student lists to **Excel, PDF, CSV, or Copy** .
  Complete CRUD: Add new students, edit existing records, and delete with confirmation.
  SQL Database: Fully structured database for persistent storage.
  Authentication: Registration, Login & Session Management, Middleware.
+ 
  Screenshots
  
 ![Screenshot 2026-04-02 035530](https://github.com/user-attachments/assets/08d56a8d-1561-440c-8f67-90b9cda1a715)
