@@ -8,6 +8,7 @@ A modern, clean, and fast Student Management System built with **Laravel**. This
  Complete CRUD: Add new students, edit existing records, and delete with confirmation.
  SQL Database: Fully structured database for persistent storage.
  Authentication: Registration, Login & Session Management, Middleware.
+ Applied MVC architecture and database integration.
  
  Screenshots
  
